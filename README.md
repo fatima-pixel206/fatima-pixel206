@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Second Year student<br>I am Working on DSA and back-end system<br> I want to work on real time projects.<br>I am studying at Sindh University Laar Campus Badin
+I am Second Year student<br>I am learning java and Working on DSA and back-end system<br> I want to work on real time projects.<br>
 
 
 ## 🌐 Socials:
